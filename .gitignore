@@ -2,3 +2,7 @@
 __pycache__/
 .venv
 .envrc
+.idea
+.DS_Store
+
+OPENAI_API_KEY.txt
