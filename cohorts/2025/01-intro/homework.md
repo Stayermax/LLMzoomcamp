@@ -4,6 +4,8 @@ In this homework, we'll learn more about search and use Elastic Search for pract
 
 > It's possible that your answers won't match exactly. If it's the case, select the closest one.
 
+Solution: [homework_solution.ipynb](homework_solution.ipynb)
+
 
 ## Q1. Running Elastic 
 
@@ -102,7 +104,7 @@ A: {text}
 """.strip()
 ```
 
-Now use the context you just created along with the "How do I execute a command in a running docker container?" question 
+Now use the context you just created along with the "How do copy a file to a Docker container?" question 
 to construct a prompt using the template below:
 
 ```
